@@ -1,6 +1,5 @@
 # Android Java Demo 2 Simple Data Binding
 
----
 
 #### Steps for Data Binding:
 
