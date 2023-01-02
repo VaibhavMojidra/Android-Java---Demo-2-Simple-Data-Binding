@@ -1,7 +1,7 @@
 # Android Java Demo 2 Simple Data Binding
 
 
-#### Steps for Data Binding:
+### Steps for Data Binding:
 
 * Enable Data Binding in build.gradle file App Level
 * Wrap XML with Layout Tags
@@ -10,7 +10,7 @@
 
 -----
 
-#### Output
+### Output
 
 [![Vaibhav Mojidra - output1.png](https://raw.githubusercontent.com/VaibhavMojidra/Android-Java---Demo-2-Simple-Data-Binding/master/screenshots/output1.png "Vaibhav Mojidra")](https://vaibhavmojidra.github.io/site/)
 
