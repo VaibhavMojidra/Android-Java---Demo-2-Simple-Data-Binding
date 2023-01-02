@@ -11,7 +11,7 @@
 
 -----
 
-####Output
+#### Output
 
 [![Vaibhav Mojidra - output1.png](https://raw.githubusercontent.com/VaibhavMojidra/Android-Java---Demo-2-Simple-Data-Binding/master/screenshots/output1.png "Vaibhav Mojidra")](https://vaibhavmojidra.github.io/site/)
 
