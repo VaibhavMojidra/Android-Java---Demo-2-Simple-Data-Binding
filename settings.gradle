@@ -1,0 +1,2 @@
+rootProject.name = "Demo 2 Simple Data Binding Using Java"
+include ':app'
